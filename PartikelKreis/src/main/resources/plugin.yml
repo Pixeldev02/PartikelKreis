@@ -1,0 +1,7 @@
+name: PartikelKreis
+version: ${project.version}
+main: de.supaadev.particles.Particles
+api-version: 1.13
+
+commands:
+  start:
